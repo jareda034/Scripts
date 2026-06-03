@@ -135,7 +135,7 @@ Realm of Ardga supports both keyboard & mouse and controller input.
 
 Realm Of Ardga is available to play on itch.io:
 
-[Play Cyber Threat](https://ping-wing.itch.io/realm-of-ard)
+[Play Realm Of Ardga](https://ping-wing.itch.io/realm-of-ard)
 
 ## Author
 **Jared Akigbesote**

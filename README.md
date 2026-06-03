@@ -41,18 +41,29 @@ Players explore a fantasy world, battling mystical enemies and searching for tre
 
 
 ## Screenshots
-### Mission and Objective UI
-![Mission and Objective UI](Bounty/Assets/Images/ScreenShots/Mission.png)
-### Game View
-![Game View](Bounty/Assets/Images/ScreenShots/Game.png)
-### Pause UI
-![Pause UI](Bounty/Assets/Images/ScreenShots/PauseUI.png)
-### Death UI
-![Death UI](Bounty/Assets/Images/ScreenShots/DeathUI.png)
-### Interaction UI
-![Interaction UI](Bounty/Assets/Images/ScreenShots/InteractUI.png)
-### DeskTop UI
-![Desktop UI](Bounty/Assets/Images/ScreenShots/DesktopUI.png)
+### GameView
+![GrassLand](Redme/GameView.png)
+![Forest](Redme/Forest.png)
+### Shop System
+![Shop](Redme/Shop.png)
+![Potion](Redme/potion.png)
+### Player Bar
+![Player Bar](Redme/PlayerBar.png)
+### Controls Menu
+![Controller](Redme/ControllerSettings.png)
+![KeyBoard & Mouse](Redme/k&msettings.png)
+### SkillTrees
+![Base](Redme/SkillTreeBase.png)
+![Mystic](Redme/MysticTree.png)
+![Rouge](Redme/RougeTree.png)
+![Warrior](Redme/WarriorTree.png)
+### Game Over
+![Desktop UI](Redme/GameOver.png)
+### Enemies
+![Flower](Redme/Flower.png)
+![Slime](Redme/Slime.png)
+![Tree Spirit](Redme/Treespirit.png)
+![Goblin](Redme/goblin.png)
 
 ## What I Learned
 

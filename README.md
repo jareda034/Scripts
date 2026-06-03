@@ -1,10 +1,10 @@
 # Realm Of Ardga
 
-A 2D top-down fantasy RPG built in Unity featuring unique enemy AI, xp and Leveling system, skill tree, shop system, and combat systems.
+A 2D top-down fantasy RPG built in Unity featuring unique enemy AI, XP and leveling system, skill tree, shop system, and combat systems.
 
 ## Gameplay Overview
 
-Players explore a fantasy world battling mystical enemies and looking for treasure while gaining experince and leveling up and getting unique skills making them stronger for the challenges theyu will face.
+Players explore a fantasy world, battling mystical enemies and searching for treasure while gaining experience, leveling up, and unlocking unique skills that help them overcome increasingly difficult challenges.
 
 ## Features
 
@@ -13,9 +13,9 @@ Players explore a fantasy world battling mystical enemies and looking for treasu
 - Combat mechanics
 - Health and damage system
 - Loot system
-- Experince system
+- Experience system
 - Skill tree with 3 unique branches
-- Persistant player character
+- Persistent player character
 - HUD and gameplay UI systems
 
 ### Technical Features
@@ -56,32 +56,32 @@ Players explore a fantasy world battling mystical enemies and looking for treasu
 
 ## What I Learned
 
-This project was focused on improving my understanding of gameplay loops and persistant game state and player for keeping the same player level and skills on loading a new level. 
+This project was focused on improving my understanding of gameplay loops and persistent game state and player state when loading new levels. 
 Through development, I gained experience with:
 - Gameplay architecture
 - AI state management
 - Combat systems
 - Debugging complex gameplay interactions
 - 2D game development workflows
-- experince and leveling systems
-- Peristant states
+- experience and leveling systems
+- Persistent states
 - 2D sorting layer management
 - 2D animation script triggers
 - Sprite sort points
-- sprite order in layer
+- sprite Order in Layer
 
 ## Challenges Faced
 
-### Scene And Player Persist
-- One major challenge for me was getting data set in level one to load into scene two(player level, skills unlocked, coins collected).
+### Scene And Player Persistence
+- One major challenge for me was getting data from one level to persist into the next(player level, unlocked skills, and collected coins).
 ### Enemy AI
-- My first time working with AI, i created a ststem where enemies can detect the player and when they move into range chase and the attack each enemy has a unique attack rate and attack range.
+- My first time working with AI, I created a system where enemies can detect the player and when they move into range, chase the player and then attack. Each enemy has a unique attack rate and attack range.
 ### Animations
-- Developing my sprites animations to work with my code for example my attack colliders only applying when a certain frame is activated on the animation.
+- Developing sprite animations that worked correctly with gameplay code, such as activating attack colliders only during specific animation frames.
 ### Sprite Collisions
-- Making sure my sprite collisions make sense for the objects position in the world for example my player being behind a tree and then being able to be infront of it.
+- Making sure my sprite collisions make sense for the objects position in the world for example my player being behind a tree and then being able to be in front of it.
 ### Level Design
-- I wanted to make a interesting and engaging world for the player to explore while also benefitting the gameplay loop.
+- I wanted to make an interesting and engaging world for the player to explore while also benefitting the gameplay loop.
 
 ## Future Improvements
 
@@ -90,31 +90,54 @@ Through development, I gained experience with:
 - Improved animations and visual effects
 - Boss encounters
 - Expanded UI systems
-- Additional Skills
+- Additional skills
 - Voiced NPCs
 - Improved combat mechanics
 - Settings menu
 - Inventory system
 - Unique items
-- Ambient sounds(birds chripping, wind blowing, ect.)
+- Ambient sounds (birds chirping, wind blowing, etc.)
 
 ## Controls
 
+Realm of Ardga supports both keyboard & mouse and controller input.
+
+### Keyboard & Mouse
+
 | Action | Key |
-|---|---|
-| Move | WASD |
-| Shoot | Left Mouse Button|
-| Interact | E |
-| Pause | ESC |
+|----------|----------|
+| Move Up | W |
+| Move Left | A |
+| Move Down | S |
+| Move Right | D |
+| Attack | Right Mouse Button |
+| Double Slash (Skill) | Left Mouse Button |
+| Dash (Skill) | Shift |
+| Soul Crush (Skill) | Q |
+| Use Health Potion | X |
+| Pause Game | ESC |
+
+### Controller Support
+
+| Action | Input |
+|----------|----------|
+| Move | Left Stick |
+| Attack | Right Trigger |
+| Double Slash (Skill) | Right Bumper |
+| Dash (Skill) | Left Bumper |
+| Soul Crush (Skill) | Left Trigger |
+| Use Health Potion | D-Pad Up |
+| Pause Game | Menu Button |
+
 
 
 ## Play the Game
 
 Realm Of Ardga is available to play on itch.io:
 
-[Play Cyber Threat](https://ping-wing.itch.io/cyber-threat)
+[Play Cyber Threat](https://ping-wing.itch.io/realm-of-ard)
 
 ## Author
-***Jared Akigbesote***
+**Jared Akigbesote**
 - portfolio: [Portfolio Website](https://awesome-code-monolith-lab.base44.app)
 - GitHub: [GitHub Profile](https://github.com/jareda034)
